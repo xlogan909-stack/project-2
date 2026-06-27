@@ -1,0 +1,14 @@
+.popular-container h1 {
+  margin-bottom: 16px;
+}
+
+.splide__arrow.splide__arrow--prev {
+  left: auto;
+  right: 60px;
+  top: -35px;
+}
+
+.splide__arrow.splide__arrow--next {
+  right: 10px;
+  top: -35px;
+}
